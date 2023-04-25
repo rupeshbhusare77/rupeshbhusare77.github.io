@@ -1,35 +1,27 @@
+># RUPESH BHUSARE
 
-# **RUPESH**
+### About me:
+![RUPESH BHUSARE](https://images.unsplash.com/photo-1635805737707-575885ab0820?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80)
 
-## THIS IS ***ME***!
+Myself Rupesh Bhusare, from kolhapur, Maharashtra. I am doing Btech in cse at IITGOA.
 
->### This is my __1st__ line<br>
->- Hello  
->### This is **2nd** line  
->- world
+### Education:
 
->### LIST
->1. one
->2. two
->3. three 
->4. four
+| Academic year | Standard | School name |
+|---------------|----------|-------------|
+| 2023          | First year| IIT Goa    |
 
-- first item
-  >- second item
-    
-- 112\. great 
-  
-### Somthing
-    nds
-        dvn
-        dv
-    kdn
+### Course @IITGoa:
+- **MA103-ODE** : *Saumya Bajpal*
+- **ELPP2022** : *Neerja Raghvan*
+- **CS102: Spring 2023** : *Clint George*
+- **MA102** : *Kalpesh Hariya*
+- **EE101** : *Apeksha Madhukar*
+- **BIO101** : *Shreenath Balakrishnan*
+- **PH102** : *Vaibhav Wasnik*
 
-### RUPESH
+### Hobbies and Interests:
+I don't have many hobbies, but i like to do sketching, photography, editing, cinematography. I am also learning about graphics designing.
 
-![spiderman](https://images.unsplash.com/photo-1635805737707-575885ab0820?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80)
 
-coded `nano`
-******
->this is my **[insta id](https://www.instagram.com/rupesh_bhusare_77/ "Rupesh")** follow it 😁
 
