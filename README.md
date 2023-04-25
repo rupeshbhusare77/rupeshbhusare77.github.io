@@ -9,6 +9,8 @@
 
 | Academic year | Standard | School name |
 |---------------|----------|-------------|
+|-2020          |1st-10th  |S.S.K.V.S    |
+|2020-2022      |11th-12th |P.B.P.Mudal  |
 | 2023          | First year| IIT Goa    |
 
 ### Course @IITGoa:
