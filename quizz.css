@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: rgb(167, 230, 209);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 2%;
+}
+
+.logo {
+    font-size: 30px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.nav-bar a {
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 35px;
+    display:inline;
+    
+}
+
+.about-me {
+    border: 2pt solid black;
+    background-color: lightsalmon;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.about-me:hover {
+    border: 2pt solid rgb(78, 163, 236)
+}
+
+.bio {
+    font-weight: bold;
+    font-size: 13pt;
+    text-align: left;
+}
+
+.image {
+
+    width: 100px;
+    float: right;
+    margin-left: 20px;
+    border-radius: 100%;
+
+
+}
+
+.xyz {
+    display: flex;
+    width: 100%;
+
+}
+
+.para {
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+
+
+.education {
+    border: 2pt solid black;
+    margin: 20px;
+    padding: 20px;
+    background-color: aqua;
+    border-radius: 15px;
+}
+
+.education:hover {
+    border: 2pt solid rgb(78, 163, 236)
+}
+
+
+table {
+    background-color: rgb(78, 163, 236);
+    width: 78%;
+    margin-left: 11%;
+    margin-right: 11%;
+    border-radius: 15px;
+    border: 2pt solid black;
+
+}
+
+TH,
+TD {
+    align-content: center;
+    padding: 10pt;
+    border: 2pt solid black;
+}
+
+.cou {
+    background-color: aquamarine;
+    border: 2pt solid black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15PX;
+}
+
+.cou:hover {
+    border: 2pt solid rgb(78, 163, 236)
+}
+
+
+.course {
+    display: flex;
+}
+
+.spring {
+    width: 50%;
+    background-color: green;
+    border: 3pt solid;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+}
+
+.autumn {
+    width: 50%;
+    background-color: lightpink;
+    border: 3pt solid;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.Hobby {
+    background-color: yellow;
+    border: 2pt solid black;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.Hobby:hover {
+    border: 2pt solid rgb(78, 163, 236)
+}
+
+.link {
+    text-decoration: none;
+}
+
+.link:hover {
+    color: green;
+}
+
+.link:active {
+    color: pink;
+}
