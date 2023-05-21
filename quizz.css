@@ -97,7 +97,7 @@ table {
 
 TH,
 TD {
-    align-content: center;
+    text-align: center;
     padding: 10pt;
     border: 2pt solid black;
 }
